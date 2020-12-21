@@ -158,6 +158,7 @@
   * [Bonita Versions](product-versioning.md)
   * [Community to Subscription upgrade](upgrade-from-community-to-a-subscription-edition.md)
 * [Bonita in Production](_bonita-portal-administration.md)
+  * [Deploy Applications](deploy-applications.md)
   * [Bonita User Interfaces](_bonita-portal-interface.md)
     * [Bonita User Interfaces overview](bonita-bpm-portal-interface-overview.md)
     * [Languages](languages.md)
